@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-https://yuxx.de5.net/ea9b640d.m3u
+https://raw.githubusercontent.com/linbo215/iptv-api/refs/heads/master/output/ipv4/result.txt
 
 
 [WHITELIST]

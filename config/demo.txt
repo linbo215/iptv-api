@@ -18,6 +18,7 @@ CCTV-15
 CCTV-16
 CCTV-17
 CCTV-4K
+CCTV-8K
 CETV-1
 CETV-2
 CETV-3
@@ -53,7 +54,18 @@ CCTV风云足球
 CCTV风云音乐
 CCTV高尔夫网球
 CGTN
-CGTN 英语高清
+CGTN英语
+CGTN俄语
+CGTN西班牙语
+CGTN法语
+CGTN英语频道
+CGTN俄语频道
+CGTN西班牙语频道
+CGTN法语频道
+CGTN英语频道
+CGTN俄语频道
+CGTN西班牙语频道
+CGTN法语频道
 
 
 📡卫视频道,#genre#

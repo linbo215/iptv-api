@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 04:52:33,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
+2026-04-27 09:15:59,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
@@ -27,7 +27,6 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
 ☘️广东频道,#genre#
-广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
 ☘️浙江频道,#genre#
 
@@ -104,11 +103,9 @@ CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u
 
 ☘️西藏频道,#genre#
 
-☘️海外频道频道,#genre#
+☘️海外频道,#genre#
 
-☘️数字频道,#genre#
-
-☘️港澳地区频道,#genre#
+☘️港澳台频道,#genre#
 
 ♻️未匹配频道,#genre#
 CCGV-12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8

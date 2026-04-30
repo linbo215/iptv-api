@@ -10,7 +10,7 @@ https://nobo.cc.cd/raw/iptv_zhejiang.m3u
 https://nobo.cc.cd/raw/iptv_hebei.m3u 
 https://nobo.cc.cd/raw/iptv_hubei.m3u 
 https://nobo.cc.cd/raw/iptv_hunan.m3u
- 
+https://oer.us.ci/get/jilin.m3u 
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-https://raw.githubusercontent.com/linbo215/iptv-api/refs/heads/master/output/iptv.txt
+https://yuxx.de5.net/ea9b640d.m3u
 https://nobo.cc.cd/raw/iptv_guangxi.m3u 
 https://nobo.cc.cd/raw/iptv_zhejiang.m3u
 https://nobo.cc.cd/raw/iptv_hebei.m3u 

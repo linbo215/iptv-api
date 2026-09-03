@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 05:20:25,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1
+2026-09-04 05:08:04,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1
 
 📺央视频道,#genre#
 CCTV-1,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1
@@ -23,8 +23,8 @@ CCTV-5+,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshi
 CCTV-5+,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fcctv5p-2
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 CCTV-6,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv6
-CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV-6,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/
 CCTV-7,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv7
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
@@ -33,15 +33,15 @@ CCTV-8,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdship
 CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 CCTV-8,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/
 CCTV-9,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv9
-CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV-9,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217
 CCTV-10,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv10
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 CCTV-10,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
 CCTV-11,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv11
-CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
+CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-12,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv12
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV-12,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
@@ -56,8 +56,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv14
 CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 CCTV-15,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv15
-CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/
 CCTV-16,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv16
 CCTV-16,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fcctv16-2
@@ -85,19 +85,16 @@ CETV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCMC
-第一剧场,https://gd202.tv1288.xyz/tsfile/live/1047_1.m3u8
-风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 CCTV卫生健康,https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV第一剧场,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCMC
-CCTV第一剧场,https://gd202.tv1288.xyz/tsfile/live/1047_1.m3u8
-CCTV风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 
@@ -110,8 +107,8 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 浙江卫视,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang4k
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
@@ -131,12 +128,9 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 广东卫视,http://www.3344.uk:8888/rtp/239.77.0.2:5146
 广东卫视,http://www.3344.uk:8888/rtp/239.77.1.152:5146
 广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
-广东卫视,http://www.3344.uk:8888/rtp/239.77.1.19:5146
 甘肃卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000027/index.m3u8?
@@ -374,16 +368,19 @@ QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 明珠台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fmzt
 明珠台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fmztvtt
 明珠台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DP
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://fh.fxtv.cc.cd/fhzw
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰中文,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Ffhzw
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,https://fh.fxtv.cc.cd/fhzx
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
+凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://fh.fxtv.cc.cd/fhhk
@@ -457,7 +454,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 CinemaWorld,https://cdn.qd.je/163189/cinemaworld
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784702901150
 CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
 CinemaWorld,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fcinemaworld
 Nickelodeon,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCNIKO
@@ -471,15 +467,14 @@ RTHK 32,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je
 RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK 33,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Frthk33
 RTHK 33,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCC1
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
 TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 东森戏剧,https://cdn.qd.je/163189/dsxj
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
+中视,https://iptv.852851.xyz/ch/177f5903c7e4ae806ba85f66cb9a47e9/master.m3u8
 公视戏剧,https://cdn.qd.je/163189/gsxj
 公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
+凤凰中文台,http://r.jdshipin.com/cCCzW
 凤凰中文台,https://fh.fxtv.cc.cd/fhzw
 凤凰中文台,https://cdn6.cc.cd/163189/fhzw
 凤凰中文台,https://cdn.qd.je/163189/fhzw
@@ -488,6 +483,7 @@ TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=178263988583
 凤凰中文台,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Ffhzx
+凤凰香港台,http://r.jdshipin.com/NfC0f
 凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港台,http://r.jdshipin.com/yDoTN
 凤凰香港台,https://fh.fxtv.cc.cd/fhhk
@@ -512,17 +508,14 @@ TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=178263988583
 无线新闻台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DC
 民视影剧台,https://cdn.qd.je/163189/msyj
 民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-达文西,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1784702901150
 采昌影剧台,https://cdn.qd.je/163189/ccyj
 采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
 金光布袋戏,https://cdn.qd.je/163189/jgbdx2
 金光布袋戏,https://cdn.qd.je/163189/jgbdx
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
 金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
 靖天戏剧台,https://cdn.qd.je/163189/jtxj
 靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
 靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 靖天电影台,https://cdn.qd.je/163189/jtdy
 靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
@@ -558,7 +551,6 @@ TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=178263988583
 老故事,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CCTV第一财经,http://ls.qingting.fm/live/276.m3u8
 CCTV第一财经,https://cdn3.163189.xyz/163189/dycj
 海峡卫视,https://cdn.qd.je/163189/hxws
@@ -656,99 +648,8 @@ TVB Plus,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.9469
 咪咕4K-2,http://r.jdshipin.com/Lqdwf
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-中視,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784702901150
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
 中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784702901150
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
 民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784702901150
-華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784702901150
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784702901150
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784702901150
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1784702901150
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784702901150
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784702901150
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
-尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
-DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784702901150
-DreamWorks 夢工廠動畫,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fdreamworks
-靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784702901150
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784702901150
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784702901150
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784702901150
-公視戲劇,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fgsxj
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
-靖天戲劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtxj
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-靖洋戲劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjyxj
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784702901150
-金光布袋戲,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjgbdx
-金光布袋戲,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjgbdx2
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
-ROCK Action,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCRTX
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
-采昌影劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fccyj
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
-靖天映畫,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtyh
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784702901150
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-靖天電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtdy
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784702901150
-影迷數位電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fymswdyt
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
-amc電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Famc
-大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1784702901150
-人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1784702901150
-TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784702901150
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784702901150
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784702901150
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
-經典電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjddyt
-經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784702901150
-經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
-精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1784702901150
-精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
-精選動漫台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjxdmt
 HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn.qd.je/163189/hoy2
 HOY TV,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fhoy
@@ -781,6 +682,45 @@ Astro欢喜台,https://cdn.qd.je/163189/hxt
 爱奇艺,https://cdn.qd.je/163189/iqiyi
 千禧经典台,https://cdn.qd.je/163189/tvbc
 黄金华剧台,https://cdn.qd.je/163189/hjhjt
+客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
+Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
+DreamWorks 夢工廠動畫,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fdreamworks
+MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
+鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
+東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
+中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
+民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
+靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
+Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
+公視戲劇,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fgsxj
+靖天戲劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtxj
+靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+靖洋戲劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjyxj
+金光布袋戲,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjgbdx
+金光布袋戲,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjgbdx2
+ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
+ROCK Action,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCRTX
+采昌影劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fccyj
+靖天映畫,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtyh
+靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+靖天電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjtdy
+影迷數位電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fymswdyt
+amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
+amc電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Famc
+經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
+經典電影台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjddyt
+經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
+精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
+精選動漫台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fjxdmt
 Now新聞台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fnow
 Thrill,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DCTHR
 黃金華劇台,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fcdn.qd.je%2F163189%2Fhjhjt
@@ -947,7 +887,6 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 CGTN Documentary,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 福州电视台少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 Hebei TV,https://event.pull.hebtv.com/live/live101.m3u8
 Xizang TV Tibetan,http://php.jdshipin.com:8880/xztv.php?id=zy
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -955,6 +894,8 @@ Xizang TV Tibetan,http://php.jdshipin.com:8880/xztv.php?id=zy
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android
 甘肃移动,https://hls.gstv.com.cn/49048r/y72q36.m3u8
 福州广播电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 NBC News,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 SKY NEWS,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
@@ -990,3 +931,4 @@ CGTN Español,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f8
 TVB News,http://r.jdshipin.com/CkuBd
 🇭🇰明珠台,http://r.jdshipin.com/ZQ4kN
 台湾中视主频,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
+台湾华视主频,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150

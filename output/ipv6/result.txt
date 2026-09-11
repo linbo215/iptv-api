@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 20:29:37,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1
+2026-09-12 05:14:39,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1
 
 央视频道,#genre#
 CCTV-1,https://st-txt.ccwu.cc/proxy?password=lv0554&src=https%3A%2F%2Fphp.jdshipin.com%2FTVOD%2Fiptv.php%3Fid%3Dcctv1

@@ -4,7 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-https://raw.githubusercontent.com/linbo215/config-tv/refs/heads/main/output/ipv4/result.txt
+https://fbf.de5.net/hotels/ALL.m3u
+https://nek.de5.net/py/hotel_only.m3u
 
 
 [WHITELIST]

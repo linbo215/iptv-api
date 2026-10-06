@@ -5,7 +5,7 @@
 
 
 https://fbf.de5.net/hotels/ALL.m3u
-https://nek.de5.net/py/hotel_only.m3u
+
 
 
 [WHITELIST]

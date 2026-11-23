@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-https://nek.de5.net/py/hotel_only.m3u
+https://tvlive.azds.indevs.in/py/hotel_only.m3u
 https://raw.githubusercontent.com/linbo215/config-tv/refs/heads/main/output/ipv4/result.txt
 
 
